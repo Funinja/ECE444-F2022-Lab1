@@ -9,4 +9,12 @@ Dennis Lam
 **Activity 3**
 <br>
 ![](images/activity3.jpg)
+<br>
+**Activity 4**
+<br>
+Link to Other Repo: https://github.com/sepair/ECE444-F2022-Lab1/tree/main 
+<br>
+![](images/activity4a.jpg)
+<br>
+![](images/activity4b.jpg)
 
