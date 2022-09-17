@@ -8,3 +8,4 @@ Dennis Lam
 <br>
 **Activity 3**
 ![](images/activity3.jpg)
+<br>
