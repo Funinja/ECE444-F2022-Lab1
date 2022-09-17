@@ -1,3 +1,10 @@
 Dennis Lam
 <br>
-![](commit.jpg)
+**Activity 1**
+![](images/activity1.jpg)
+<br>
+**Activity 2**
+![](images/activity2.jpg)
+<br>
+**Activity 3**
+
