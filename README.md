@@ -23,4 +23,9 @@ Link to Other Repo: https://github.com/sepair/ECE444-F2022-Lab1/tree/main
 ![](images/activity5a.jpg)
 <br>
 ![](images/activity5b.jpg)
+<br>
+**Activity 6**
+<br>
+The link for the EP-repo: https://github.com/Funinja/ECE444-F2022-EP
+<br>
 
