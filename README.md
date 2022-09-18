@@ -34,4 +34,9 @@ The link for the EP-repo: https://github.com/Funinja/ECE444-F2022-EP
 <br>
 ![](images/activity7b.jpg)
 <br>
-
+**Activity 8**
+<br>
+![](images/activity8a.jpg)
+<br>
+![](images/activity8b.jpg)
+<br>
